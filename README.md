@@ -1,8 +1,7 @@
 
 #Film Arama Uygulaması
 
-![resim]([https://raw.githubusercontent.com/hamitseyrek/AngryBirdClone/hamitseyrek/AngryBirdClone/Assets.xcassets/thumbforreadme.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2012%20mini%20-%202022-02-06%20at%2017.57.31.png](https://raw.githubusercontent.com/hamitseyrek/MovieSearchApp/hamitseyrek/movie.gif))
-
+<img src="movie.gif" alt="gif1" style="width:400px;"/>
 
 # Film Arama Uygulaması
 
